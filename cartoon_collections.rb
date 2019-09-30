@@ -1,5 +1,5 @@
-def roll_call_dwarves (cartoon-collections)
-each_with_index ["Doc", "Dopey", "Bashful", "Grumpy"]
+def roll_call_dwarves.each_with_index
+puts ["Doc", "Dopey", "Bashful", "Grumpy"]
 end
 
 def summon_captain_planet# code an argument here
