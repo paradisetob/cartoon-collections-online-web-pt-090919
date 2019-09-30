@@ -1,4 +1,4 @@
-def roll_call_dwarves.each_with_index
+def roll_call_dwarves (cartoon-collections)
 puts ["Doc", "Dopey", "Bashful", "Grumpy"]
 end
 
